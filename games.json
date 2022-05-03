@@ -34,5 +34,23 @@
     "originalprice": "11,99\u20ac",
     "thumbnailwide": "https://cdn.discordapp.com/attachments/971057789839495218/971108970959880192/paradigm-875c5c-wide.png",
     "thumbnailcustom": "https://cdn.discordapp.com/attachments/971057789839495218/971108972461441094/paradigm-875c5c.png"
+  },
+  "Just Die Already": {
+    "description": "Just Die Already is an old people mayhem sandbox game created by the designers of Goat Simulator. You are old and angry and you've just been kicked out of your retirement home. How will you survive in a world that wants you to Just Die Already?",
+    "storepage": "https://store.epicgames.com/en-US/p/just-die-already",
+    "slug": "just-die-already",
+    "expirationdate": "2022-05-05T15:00:00.000Z",
+    "originalprice": "13,99",
+    "thumbnailwide": "71057789839495218/971109996492390460/just-die-already-wide.png",
+    "thumbnailcustom": "71057789839495218/971109997872300092/just-die-already.png"
+  },
+  "Paradigm": {
+    "description": "Paradigm is a surreal adventure game set in the strange and post apocalyptic Eastern European country of Krusz. Play as the handsome mutant, Paradigm, whose past comes back to haunt him in the form of a genetically engineered sloth that vomits candy.",
+    "storepage": "https://store.epicgames.com/en-US/p/paradigm-875c5c",
+    "slug": "paradigm-875c5c",
+    "expirationdate": "2022-05-05T15:00:00.000Z",
+    "originalprice": "11,99",
+    "thumbnailwide": "LINK",
+    "thumbnailcustom": "LINK"
   }
 }
