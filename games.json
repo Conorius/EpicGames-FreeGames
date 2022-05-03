@@ -1,4 +1,6 @@
-[
-  "test": "May 05",
-  "test2": "May 07"
-]
+{
+  "games": [
+    "test": "May 05",
+    "test2": "May 07"
+  ]
+}
