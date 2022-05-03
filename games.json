@@ -1,1 +1,15 @@
-more tests
+{
+	"description": "The 2014 Fortune not so 500 list",
+	"companies":
+		[
+		"Wal-Mart Stores",
+		"Joy Global Inc.",
+		"Wyndham Worldwide Corporation",
+		"NII Holdings, Inc.",
+		"Lorillard, Inc.",
+		"Alleghany Corporation",
+		"Airgas, Inc.",
+		"First American Financial Corporation",
+		"United Rentals, Inc."
+	]
+}
