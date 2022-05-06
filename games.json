@@ -16,5 +16,14 @@
     "originalprice": 1199,
     "thumbnailwide": "971057789839495218/971123873577836604/paradigm-875c5c-wide.png",
     "thumbnailcustom": "971057789839495218/971123874806767636/paradigm-875c5c.png"
+  },
+  "Terraforming Mars": {
+    "description": "The taming of the Red Planet has begun!\n\nControl your corporation, play project cards, build up production, place your cities and green areas on the map, and race for milestones and awards!\n\nWill your corporation lead the way into humanity's new era?",
+    "storepage": "https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad",
+    "slug": "terraforming-mars-18c3ad",
+    "expirationdate": "2022-05-12T15:00:00.000Z",
+    "originalprice": 1999,
+    "thumbnailwide": "971057789839495218/972101394305798154/terraforming-mars-18c3ad-wide.png",
+    "thumbnailcustom": "971057789839495218/972101395861868624/terraforming-mars-18c3ad.png"
   }
 }
