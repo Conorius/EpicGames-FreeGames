@@ -25,32 +25,5 @@
     "originalprice": 1999,
     "thumbnailwide": "971057789839495218/972101394305798154/terraforming-mars-18c3ad-wide.png",
     "thumbnailcustom": "971057789839495218/972101395861868624/terraforming-mars-18c3ad.png"
-  },
-  "Jotun Valhalla Edition": {
-    "description": "Jotun is a hand-drawn action-exploration game set in Norse mythology. In Jotun, you play Thora, a Viking warrior who died an inglorious death and must prove herself to the Gods to enter Valhalla. Impress the Gods!",
-    "storepage": "https://store.epicgames.com/en-US/p/jotun",
-    "slug": "jotun",
-    "expirationdate": "2022-05-19T15:00:00.000Z",
-    "originalprice": 1499,
-    "thumbnailwide": "971057789839495218/974616467159023667/jotun-wide.png",
-    "thumbnailcustom": "971057789839495218/974616468467617852/jotun.png"
-  },
-  "Prey": {
-    "description": "In Prey, you awaken aboard Talos I, a space station orbiting the moon in the year 2032. You are the key subject of an experiment meant to alter humanity forever \u2013 but things have gone terribly wrong.",
-    "storepage": "https://store.epicgames.com/en-US/p/prey",
-    "slug": "prey",
-    "expirationdate": "2022-05-19T15:00:00.000Z",
-    "originalprice": 3999,
-    "thumbnailwide": "LINK",
-    "thumbnailcustom": "LINK"
-  },
-  "Redout Enhanced Edition": {
-    "description": "NEXT GENERATION AG RACING IS HERE!\nRedout is a tribute to the classic racing monsters. It is designed to be an uncompromising, fast, tough and satisfying driving experience, soaked in that vertigo that stands at the core of the arcade racing genre.",
-    "storepage": "https://store.epicgames.com/en-US/p/redout-enhanced-edition",
-    "slug": "redout-enhanced-edition",
-    "expirationdate": "2022-05-19T15:00:00.000Z",
-    "originalprice": 799,
-    "thumbnailwide": "LINK",
-    "thumbnailcustom": "LINK"
   }
 }
