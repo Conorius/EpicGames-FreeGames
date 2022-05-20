@@ -52,5 +52,14 @@
     "originalprice": 799,
     "thumbnailwide": "971057789839495218/974634945265934366/redout-enhanced-edition-wide.png",
     "thumbnailcustom": "971057789839495218/974634954015256656/redout-enhanced-edition.png"
+  },
+  "Borderlands 3": {
+    "description": "Borderlands 3",
+    "storepage": "https://store.epicgames.com/en-US/p/borderlands-3",
+    "slug": "borderlands-3",
+    "expirationdate": "2022-05-26T15:00:00.000Z",
+    "originalprice": 0,
+    "thumbnailwide": "971057789839495218/977211483601637376/borderlands-3-wide.png",
+    "thumbnailcustom": "971057789839495218/977211486348906506/borderlands-3.png"
   }
 }
