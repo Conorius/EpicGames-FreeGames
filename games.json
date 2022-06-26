@@ -61,5 +61,23 @@
     "originalprice": 0,
     "thumbnailwide": "971057789839495218/977211483601637376/borderlands-3-wide.png",
     "thumbnailcustom": "971057789839495218/977213737318645820/egs-vault-w1-1920x1080_1920x1080-9bccac92ec0b41b294fc008cea5615c9.jpg"
+  },
+  "Car Mechanic Simulator 2018": {
+    "description": "Build and expand your repair service empire in this incredibly detailed and highly realistic simulation game, where attention to car detail is astonishing. Find classic, unique cars in the new Barn Find module and Junkyard module.",
+    "storepage": "https://store.epicgames.com/en-US/p/car-mechanic-simulator-2018",
+    "slug": "car-mechanic-simulator-2018",
+    "expirationdate": "2022-06-30T15:00:00.000Z",
+    "originalprice": 1599,
+    "thumbnailwide": "971057789839495218/990436277633564682/car-mechanic-simulator-2018-wide.png",
+    "thumbnailcustom": "971057789839495218/990436279466467379/car-mechanic-simulator-2018.png"
+  },
+  "A Game Of Thrones The Board Game Digital Edition": {
+    "description": "It is the digital adaptation of the top-selling strategy board game from Fantasy Flight Games.",
+    "storepage": "https://store.epicgames.com/en-US/p/None",
+    "slug": null,
+    "expirationdate": "2022-06-30T15:00:00.000Z",
+    "originalprice": 1999,
+    "thumbnailwide": "971057789839495218/990436282666745886/None-wide.png",
+    "thumbnailcustom": "971057789839495218/990436284508041296/None.png"
   }
 }
