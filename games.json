@@ -79,5 +79,32 @@
     "originalprice": 1999,
     "thumbnailwide": "971057789839495218/990436282666745886/None-wide.png",
     "thumbnailcustom": "971057789839495218/990436284508041296/None.png"
+  },
+  "Geneforge 1  Mutagen": {
+    "description": "Unique, open-ended fantasy RPG in an alien land. Use battle or cunning to change the world, served by your army of custom-made mutant monsters. Tons of skills, treasures, factions, treasures, and creations. Unmatched freedom and replayability in an epic story.",
+    "storepage": "https://store.epicgames.com/en-US/p/geneforge-1-mutagen",
+    "slug": "geneforge-1-mutagen",
+    "expirationdate": "2022-07-07T15:00:00.000Z",
+    "originalprice": 1599,
+    "thumbnailwide": "971057789839495218/993108952227258390/geneforge-1-mutagen-wide.png",
+    "thumbnailcustom": "971057789839495218/993108954014031882/geneforge-1-mutagen.png"
+  },
+  "Hood Outlaws  Legends": {
+    "description": "In a violent, medieval world, outplay rival gangs in intense PvPvE multiplayer heists. Moving in stealth to steal treasures unseen or dominating through loud and brutal combat, only the best will escape with hard-earned riches.",
+    "storepage": "https://store.epicgames.com/en-US/p/hood-outlaws-and-legends",
+    "slug": "hood-outlaws-and-legends",
+    "expirationdate": "2022-07-07T15:00:00.000Z",
+    "originalprice": 1999,
+    "thumbnailwide": "971057789839495218/993108957868609608/hood-outlaws-and-legends-wide.png",
+    "thumbnailcustom": "971057789839495218/993108959168835625/hood-outlaws-and-legends.png"
+  },
+  "Iratus Lord of the Dead": {
+    "description": "Iratus: Lord of the Dead is a turn-based tactical roguelike RPG set in a dark fantasy universe. Lead an army of undead to help an angry necromancer in his quest to reach the surface world and bring death to the mortal realms!",
+    "storepage": "https://store.epicgames.com/en-US/p/None",
+    "slug": null,
+    "expirationdate": "2022-07-07T15:00:00.000Z",
+    "originalprice": 2999,
+    "thumbnailwide": "971057789839495218/993108962746568704/None-wide.png",
+    "thumbnailcustom": "971057789839495218/993108974499008572/None.png"
   }
 }
