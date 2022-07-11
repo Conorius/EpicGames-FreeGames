@@ -106,5 +106,23 @@
     "originalprice": 2999,
     "thumbnailwide": "971057789839495218/993108962746568704/None-wide.png",
     "thumbnailcustom": "971057789839495218/993108974499008572/None.png"
+  },
+  "Killing Floor 2": {
+    "description": "In KILLING FLOOR 2, players descend into continental Europe after it has been overrun by horrific, murderous clones called Zeds that were created by rogue elements of the Horzine Corporation. 6-player Co-Op & 12-player VS Zed-slaughtering mayhem.",
+    "storepage": "https://store.epicgames.com/en-US/p/killing-floor-2",
+    "slug": "killing-floor-2",
+    "expirationdate": "2022-07-14T15:00:00.000Z",
+    "originalprice": 2499,
+    "thumbnailwide": "971057789839495218/996169511747203172/killing-floor-2-wide.png",
+    "thumbnailcustom": "971057789839495218/996169513483636736/killing-floor-2.png"
+  },
+  "Ancient Enemy": {
+    "description": "Ancient Enemy is an RPG card battler set in a crumbling world where the forces of evil have already won. Blast distorted enemies with a satisfying range of spells and abilities. Journey into a scarred wilderness and defeat the deadliest foe of all!",
+    "storepage": "https://store.epicgames.com/en-US/p/ancient-enemy",
+    "slug": "ancient-enemy",
+    "expirationdate": "2022-07-14T15:00:00.000Z",
+    "originalprice": 1199,
+    "thumbnailwide": "LINK",
+    "thumbnailcustom": "LINK"
   }
 }
