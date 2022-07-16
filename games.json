@@ -124,5 +124,14 @@
     "originalprice": 1199,
     "thumbnailwide": "LINK",
     "thumbnailcustom": "LINK"
+  },
+  "Wonder Boy The Dragons Trap": {
+    "description": "Boasting beautiful, hand-drawn animations and a re-orchestrated soundtrack, the cult classic returns with a unique blend of exploration, action, and adventure!",
+    "storepage": "https://store.epicgames.com/en-US/p/None",
+    "slug": null,
+    "expirationdate": "2022-07-21T15:00:00.000Z",
+    "originalprice": 1599,
+    "thumbnailwide": "971057789839495218/997931423656841377/None-wide.png",
+    "thumbnailcustom": "971057789839495218/997931425103872101/None.png"
   }
 }
